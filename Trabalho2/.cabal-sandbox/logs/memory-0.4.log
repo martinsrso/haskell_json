@@ -1,0 +1,34 @@
+Configuring memory-0.4...
+Building memory-0.4...
+Preprocessing library memory-0.4...
+[ 1 of 25] Compiling Data.Memory.MemMap.Posix ( dist/dist-sandbox-cbf4510/build/Data/Memory/MemMap/Posix.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/MemMap/Posix.o )
+[ 2 of 25] Compiling Data.Memory.Internal.DeepSeq ( Data/Memory/Internal/DeepSeq.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/Internal/DeepSeq.o )
+[ 3 of 25] Compiling Data.Memory.Internal.CompatPrim ( Data/Memory/Internal/CompatPrim.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/Internal/CompatPrim.o )
+[ 4 of 25] Compiling Data.Memory.ExtendedWords ( Data/Memory/ExtendedWords.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/ExtendedWords.o )
+[ 5 of 25] Compiling Data.Memory.Internal.Imports ( Data/Memory/Internal/Imports.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/Internal/Imports.o )
+[ 6 of 25] Compiling Data.Memory.PtrMethods ( Data/Memory/PtrMethods.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/PtrMethods.o )
+[ 7 of 25] Compiling Data.Memory.Internal.Compat ( Data/Memory/Internal/Compat.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/Internal/Compat.o )
+[ 8 of 25] Compiling Data.Memory.Encoding.Base16 ( Data/Memory/Encoding/Base16.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/Encoding/Base16.o )
+[ 9 of 25] Compiling Data.Memory.Encoding.Base64 ( Data/Memory/Encoding/Base64.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/Encoding/Base64.o )
+[10 of 25] Compiling Data.Memory.Endian ( Data/Memory/Endian.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/Endian.o )
+[11 of 25] Compiling Data.Memory.Hash.SipHash ( Data/Memory/Hash/SipHash.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/Hash/SipHash.o )
+[12 of 25] Compiling Data.Memory.Hash.FNV ( Data/Memory/Hash/FNV.hs, dist/dist-sandbox-cbf4510/build/Data/Memory/Hash/FNV.o )
+[13 of 25] Compiling Data.ByteArray.Types ( Data/ByteArray/Types.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/Types.o )
+[14 of 25] Compiling Data.ByteArray.Bytes ( Data/ByteArray/Bytes.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/Bytes.o )
+[15 of 25] Compiling Data.ByteArray.ScrubbedBytes ( Data/ByteArray/ScrubbedBytes.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/ScrubbedBytes.o )
+[16 of 25] Compiling Data.ByteArray.MemView ( Data/ByteArray/MemView.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/MemView.o )
+[17 of 25] Compiling Data.ByteArray.Pack.Internal ( Data/ByteArray/Pack/Internal.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/Pack/Internal.o )
+[18 of 25] Compiling Data.ByteArray.Methods ( Data/ByteArray/Methods.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/Methods.o )
+[19 of 25] Compiling Data.ByteArray.View ( Data/ByteArray/View.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/View.o )
+[20 of 25] Compiling Data.ByteArray.Encoding ( Data/ByteArray/Encoding.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/Encoding.o )
+[21 of 25] Compiling Data.ByteArray.Mapping ( Data/ByteArray/Mapping.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/Mapping.o )
+[22 of 25] Compiling Data.ByteArray.Parse ( Data/ByteArray/Parse.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/Parse.o )
+[23 of 25] Compiling Data.ByteArray.Hash ( Data/ByteArray/Hash.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/Hash.o )
+[24 of 25] Compiling Data.ByteArray   ( Data/ByteArray.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray.o )
+[25 of 25] Compiling Data.ByteArray.Pack ( Data/ByteArray/Pack.hs, dist/dist-sandbox-cbf4510/build/Data/ByteArray/Pack.o )
+In-place registering memory-0.4...
+Creating package registration file:
+/var/folders/_k/pwdtd08s683b3khk7dtls47w0000gn/T/pkgConf-memory-062750.4
+Installing library in
+/Users/Martins/Documents/15:1/LP/Trabalho2/.cabal-sandbox/lib/x86_64-osx-ghc-7.8.3/memory-0.4
+Registering memory-0.4...
